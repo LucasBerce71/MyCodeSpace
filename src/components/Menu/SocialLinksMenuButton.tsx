@@ -15,7 +15,7 @@ import { MenuButton } from './MenuButton'
 const socialLinks = [
   {
     name: 'github',
-    url: 'https://github.com/diego3g',
+    url: 'https://github.com/LucasBerce71',
     icon: <Github size={14} />
   },
   {

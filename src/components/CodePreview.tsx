@@ -4,6 +4,7 @@ import { useState } from "react"
 import { JetBrains_Mono } from "@next/font/google"
 
 import { Copy as CopyIcon, CheckCircle2 as CheckIcon } from "lucide-react"
+import { Tab } from "./Tab"
 
 const jetBrainsMono = JetBrains_Mono({ subsets: ['latin'] })
 
@@ -24,6 +25,7 @@ export function CodePreview({ code, raw }: CodePreviewProps) {
 
   return (
     <>
+      <Tab />
       {raw && (
         <button
           onClick={handleCopyToClipboard}

@@ -11,11 +11,7 @@ export function Explorer() {
       </strong>
 
       <nav className="mt-4 flex flex-col">
-        <Folder defaultOpen title="Visual Studio Code">
-          {/* <File href="/vscode/general">
-            <Code2 size={16} />
-            General
-          </File> */}
+        <Folder title="Visual Studio Code">
           <File href="/vscode/settings">
             <FileJson size={16} />
             settings.json

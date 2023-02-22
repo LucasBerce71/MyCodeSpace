@@ -1,0 +1,20 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "/Users/lucasbercedejesus/DEV/My_Codespace/src/app/page": [
+      "/Users/lucasbercedejesus/DEV/My_Codespace/src/styles/global.css",
+      "/Users/lucasbercedejesus/DEV/My_Codespace/node_modules/@next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.tsx\",\"variableName\":\"inter\"}"
+    ],
+    "/Users/lucasbercedejesus/DEV/My_Codespace/src/app/others/dev-setup/page": [
+      "/Users/lucasbercedejesus/DEV/My_Codespace/src/styles/global.css",
+      "/Users/lucasbercedejesus/DEV/My_Codespace/node_modules/@next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.tsx\",\"variableName\":\"inter\"}",
+      "/Users/lucasbercedejesus/DEV/My_Codespace/node_modules/@next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"JetBrains_Mono\",\"path\":\"src/components/CodePreview.tsx\",\"variableName\":\"jetBrainsMono\"}"
+    ]
+  },
+  "/Users/lucasbercedejesus/DEV/My_Codespace/src/app/layout.tsx": [
+    "/Users/lucasbercedejesus/DEV/My_Codespace/src/styles/global.css",
+    "/Users/lucasbercedejesus/DEV/My_Codespace/node_modules/@next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.tsx\",\"variableName\":\"inter\"}"
+  ],
+  "/Users/lucasbercedejesus/DEV/My_Codespace/src/app/others/dev-setup/page.tsx": [
+    "/Users/lucasbercedejesus/DEV/My_Codespace/node_modules/@next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"JetBrains_Mono\",\"path\":\"src/components/CodePreview.tsx\",\"variableName\":\"jetBrainsMono\"}"
+  ]
+}
